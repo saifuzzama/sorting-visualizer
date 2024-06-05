@@ -2,11 +2,17 @@
 Sorting Visualizer is a web-based application that allows users to visualize various sorting algorithms. The project is built using HTML, CSS, and JavaScript, and it implements the following sorting techniques:
 
 Bubble Sort
+
 Selection Sort
+
 Insertion Sort
+
 Merge Sort
+
 Quick Sort
+
 Heap Sort
+
 This visualizer provides an educational tool for understanding how different sorting algorithms work by visually representing the process step-by-step.
 
 Features
